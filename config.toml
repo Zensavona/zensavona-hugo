@@ -1,0 +1,33 @@
+title = "Zen Savona"
+baseurl = "https://zen.id.au/"
+languageCode = "en-au"
+disqusShortname = ""
+googleAnalytics = ""
+theme = "hugo-sustain"
+
+[permalinks]
+  blog = "/:slug"
+
+[params]
+  avatar = "zen.jpg"
+  author = "Zen Savona"
+  description = "Zen's personal site and blog"
+
+  # Custom assets can be linked with their paths relative to static/
+  custom_css = []
+  custom_js  = []
+
+[social]
+  github        = "zensavona"
+  email         = "z@zen.id.au"
+  twitter       = "zensavona"
+  instagram     = "zenm8"
+  linkedin      = "zen-savona-23a21372"
+  stackoverflow = "464937/zen"
+
+## Main Menu
+[[menu.main]]
+  name = "blog"
+  weight = 100
+  identifier = "blog"
+  url = "/blog/"
