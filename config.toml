@@ -31,3 +31,8 @@ theme = "hugo-sustain"
   weight = 100
   identifier = "blog"
   url = "/blog/"
+[[menu.main]]
+  name = "What I'm Working On"
+  identifier = "now"
+  weight = 200
+  url = "/now"

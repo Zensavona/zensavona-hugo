@@ -2,6 +2,9 @@
 date = "2012-12-17T12:46:52+11:00"
 title = "On Trust"
 draft = false
+aliases = [
+    "/2012/on-trust/"
+]
 +++
 
 <blockquote>

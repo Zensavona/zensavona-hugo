@@ -2,6 +2,7 @@
 date = "2013-01-21T12:46:52+11:00"
 title = "Github for government"
 draft = false
+aliases = ["/2012/github-for-government"]
 +++
 
 <p>I&#8217;m a big fan of both <a href='http://git-scm.com/'>Git</a> and <a href='http://github.com/'>Github</a> (both as a product and as a company - it&#8217;s made by a bunch of seriously cool people) and I think that a thing like Github is (with a few pretty minor tweaks) what we need to bring our 19th century governments into the 21st century.</p>

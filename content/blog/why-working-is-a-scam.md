@@ -2,6 +2,7 @@
 date = "2012-04-06T12:46:52+11:00"
 title = "Why working is a scam"
 draft = false
+aliases = ["/2012/why-working-is-a-scam"]
 +++
 
 <p>In Australia, the average life expectency is 81. Let&#8217;s assume for a moment that a person starts working full time at 21 and retires at 60, this is assuming you are earning an above average salary (the &#8220;retirement age&#8221; in Australia is actually 65). This means you will work full time for 39 years. If you average 4 full work days per week over your working life, you will have spent just <strong>over 22 years</strong> at work.</p>

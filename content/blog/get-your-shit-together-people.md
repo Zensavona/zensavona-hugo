@@ -2,6 +2,7 @@
 date = "2012-09-03T12:46:52+11:00"
 title = "Get your shit together, people"
 draft = false
+aliases = ["/2012/get-your-shit-together-people"]
 +++
 
 <blockquote>
