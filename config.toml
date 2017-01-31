@@ -1,7 +1,7 @@
 title = "Zen Savona"
 baseurl = "https://zen.id.au/"
 languageCode = "en-au"
-disqusShortname = ""
+disqusShortname = "zensavona"
 googleAnalytics = ""
 theme = "hugo-sustain"
 
