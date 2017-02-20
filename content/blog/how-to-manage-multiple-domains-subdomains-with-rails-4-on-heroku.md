@@ -2,6 +2,7 @@
 date = "2015-05-06T12:46:52+11:00"
 title = "How To Manage Multiple Domains & Subdomains with Rails 4 on Heroku"
 draft = false
+aliases = ["/how-to-manage-multiple-domains-subdomains-with-rails-4-on-heroku"]
 +++
 
 <p><p>Recently I've been working on a multi-tenant blog hosting application with a Rails front end, and this required us to let users set their own domains. Here's how to dynamically route your Rails application with multiple domains and subdomains (of yours and theirs).</p>
